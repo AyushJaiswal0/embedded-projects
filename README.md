@@ -1,4 +1,4 @@
-# 🔧 Embedded Systems Projects (Arduino / STM32 / IoT)
+# 🔧 Embedded Systems Projects (Arduino)
 
 Welcome to my collection of embedded systems projects built using **Arduino**. Each project focuses on real-world applications, from LED dimming to smart automation systems.
 
