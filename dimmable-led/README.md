@@ -68,6 +68,8 @@ void loop() {
   delay(dt);
 }
 
+```
+
 📁 [Full Code](code/dimmable_LED.ino)
 
 ## 🚀 How to Use
